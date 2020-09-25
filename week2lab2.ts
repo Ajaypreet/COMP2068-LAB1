@@ -1,1 +1,0 @@
-console.log('Hello everyone My name is Ajaypreet Kaur');
